@@ -61,18 +61,18 @@ The project follows these key steps:
 
 
 
-- **Explore the Results:
+## Explore the Results:**
 Review the generated visualizations, model performance metrics, and feature importance analysis.
 
-- **Key Visualizations
-Distribution of Number of Words in Tweets
-Distribution of Number of Words
+1. **Key Visualizations
+   - Distribution of Number of Words in Tweets
+   - Distribution of Number of Words
 
-- **Scatter Plot of Number of Words vs. Average Word Length
-Scatter Plot
+2. **Scatter Plot of Number of Words vs. Average Word Length
+   - Scatter Plot
 
-- **Correlation Matrix of Metafeatures
-Correlation Matrix
+3. **Correlation Matrix of Metafeatures
+   - Correlation Matrix
 
-- **Conclusion
-This project provides insights into the characteristics of tweets and how they relate to gender classification. Further improvements could include additional data exploration and model tuning.
+4. **Conclusion
+   - This project provides insights into the characteristics of tweets and how they relate to gender classification. Further improvements could include additional data exploration and model tuning.
