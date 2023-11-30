@@ -61,17 +61,17 @@ The project follows these key steps:
 
 
 
-**Explore the Results:
+-**Explore the Results:
 Review the generated visualizations, model performance metrics, and feature importance analysis.
 
-**Key Visualizations
+-**Key Visualizations
 Distribution of Number of Words in Tweets
 Distribution of Number of Words
 
-**Scatter Plot of Number of Words vs. Average Word Length
+-**Scatter Plot of Number of Words vs. Average Word Length
 Scatter Plot
 
-**Correlation Matrix of Metafeatures
+-**Correlation Matrix of Metafeatures
 Correlation Matrix
 
 **Conclusion
